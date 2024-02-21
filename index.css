@@ -1,0 +1,28 @@
+*{
+  border: none;
+  
+  outline: none;
+}
+
+
+
+ion-icon {
+    color:#9a9a9a;
+    font-size: 17px;
+    margin-top: 2px;
+    margin-right: 1px;
+  }
+  .i-2{
+ font-size: 25px;
+  }
+  .i-3{
+    font-size: 17px;
+  }
+  /* .buton :hover{
+    background: rgba(255, 255, 255, 0.305);
+  } */
+
+  .bt-1:hover{
+   
+  transform: translateX(4px);
+  }
